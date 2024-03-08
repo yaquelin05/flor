@@ -14,11 +14,11 @@ const config = {
   url: 'https://yaquelin05.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/flor/',
+  baseUrl: '/flores/',
 
   // GitHub pages deployment config.
   organizationName: 'yaquelin05',
-  projectName: 'flor',
+  projectName: 'flores',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pngtree.com%2Ffree-png-vectors%2Flogotipo-de-la-flor&psig=AOvVaw3d-E1OkLNVIa9z9WjWWlCi&ust=1709959150953000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNj53rDs44QDFQAAAAAdAAAAABAM',
+          src: 'https://img.freepik.com/vector-gratis/ilustracion-diseno-degradado-lujo-logotipo-flor_483537-1451.jpg',
         },
         items: [
           // {
